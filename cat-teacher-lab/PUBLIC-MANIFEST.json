@@ -1,0 +1,104 @@
+{
+  "snapshot_date": "2026-11-08",
+  "baseline_candidate": 26,
+  "scope": "Public project overview, six unchanged source reference files, four concept images; not a complete buildable App release.",
+  "source_integrity": "Six source files match their captured candidate26 SHA-256 values. Original local project was not modified.",
+  "image_status": "Four finite perspective concepts generated and reviewed; native integration pending.",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 454,
+      "sha256": "77e7354dc07207ec34237a63643d835b6ae225b210f139610b3100e5bd30ca74"
+    },
+    {
+      "path": "cat-teacher-lab/CONTRIBUTING.md",
+      "bytes": 880,
+      "sha256": "d0f590bdfc766c21ed96ee9aa3f4f6c0d0008d24390c08162caef9af9cb5d03d"
+    },
+    {
+      "path": "cat-teacher-lab/README.md",
+      "bytes": 2794,
+      "sha256": "b5917469005601f628aeb6edb2b30448f18e00eba7e52e9a66b68839ffe99265"
+    },
+    {
+      "path": "cat-teacher-lab/RIGHTS.md",
+      "bytes": 1113,
+      "sha256": "8400dbd3d2405c775818387c56c14b765f13e4d72052a38fcac8bfb356c7de3e"
+    },
+    {
+      "path": "cat-teacher-lab/assets/README.md",
+      "bytes": 841,
+      "sha256": "4e4e917735fb65fb7d4f44b5fab974f9af3664bf6a60dab2dd72ad33006fe9be"
+    },
+    {
+      "path": "cat-teacher-lab/assets/entry-lobby-threshold-v2.png",
+      "bytes": 2590608,
+      "sha256": "17d762e38dd1dad7167aa7e03c2c4daa71e7b0594210765db23c7c294e811396"
+    },
+    {
+      "path": "cat-teacher-lab/assets/entry-plaza-approach-v2.png",
+      "bytes": 3019098,
+      "sha256": "b693867498c57c8af9bc0c07cb667997db05032a60c7e300e629a2cf001409b4"
+    },
+    {
+      "path": "cat-teacher-lab/assets/entry-st01-door-v1.png",
+      "bytes": 2163405,
+      "sha256": "c00fd35a4832581573fba16abddf4fdb3f6ffa7ee402a14feafbadc04fe627d3"
+    },
+    {
+      "path": "cat-teacher-lab/assets/entry-st01-platform-v1.png",
+      "bytes": 2263749,
+      "sha256": "cc8b9b167f11506aa62dad7111b05042f0af0e3f725cbbc7f2b9087181a04d99"
+    },
+    {
+      "path": "cat-teacher-lab/docs/ARCHITECTURE.md",
+      "bytes": 1964,
+      "sha256": "012c00a334f9bc6b0a2689322566693989493e79794c86879f52bdf4dd10e7d5"
+    },
+    {
+      "path": "cat-teacher-lab/docs/ROADMAP.md",
+      "bytes": 1402,
+      "sha256": "4032700bb2e267c00b60445df598e8c1dd3e70b67ba008e89204182da7e80e09"
+    },
+    {
+      "path": "cat-teacher-lab/docs/STATUS-2026-11-08.md",
+      "bytes": 2361,
+      "sha256": "0bd8bef343661f7633f45ccacbe358efda4c5611bf61910e24d60afb932e8275"
+    },
+    {
+      "path": "cat-teacher-lab/reference-source/Pad/ConnectedBuilding.swift",
+      "bytes": 26735,
+      "sha256": "58a4572b6c9d81295fa0b4a93d0e53285eaae24141aadb3d7a0838c91ab246af"
+    },
+    {
+      "path": "cat-teacher-lab/reference-source/Pad/ExperimentLoop.swift",
+      "bytes": 10912,
+      "sha256": "3939d8d5859210582702844a149f52d083746d2cd9da8c67c53c5777e44df4a3"
+    },
+    {
+      "path": "cat-teacher-lab/reference-source/Pad/LightweightRoam.swift",
+      "bytes": 27330,
+      "sha256": "205ba67464ef3a2563dc5981acd321a9358302768a9e220cb0ce43582707aac5"
+    },
+    {
+      "path": "cat-teacher-lab/reference-source/Pad/ObjectGraph.swift",
+      "bytes": 1971,
+      "sha256": "110c9ec969adccb627da75684d6b8c57c67a68f4c548dfa6340b5623aa010f8c"
+    },
+    {
+      "path": "cat-teacher-lab/reference-source/Pad/PlazaPanorama.swift",
+      "bytes": 15155,
+      "sha256": "94858f7b6165c70e75a223d068330a704d23501060c2529e38933e820d89a9a4"
+    },
+    {
+      "path": "cat-teacher-lab/reference-source/README.md",
+      "bytes": 616,
+      "sha256": "b646c5d08be7de5dace2fe345daec34216055bbb82bbdae59b90b5c39ff6ad22"
+    },
+    {
+      "path": "cat-teacher-lab/reference-source/Sources/SceneEngine.swift",
+      "bytes": 3386,
+      "sha256": "56bc842be57006b2482186441c037b8e545510868e0d4e7eedc27e7b942e62ab"
+    }
+  ]
+}
